@@ -13,6 +13,8 @@ logs/
 !.autod.conf.js
 
 app/**/*.js
+app/public/images/
+app/public/zip/
 test/**/*.js
 config/**/*.js
 app/**/*.map
